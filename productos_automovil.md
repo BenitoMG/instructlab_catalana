@@ -90,9 +90,9 @@ El Consorcio de Compensacién de Seguros ajustard su actuacién a lo dispuesto e
 
 Resumen de las normas legales
 1. Acontecimientos extraordinarios cubiertos
-a) Los siguientes fendmenos de la naturaleza: terremotos y maremotos; inundaciones extraordinarias, incluidas las producidas por embates de mar; erupciones volcanicas; tempestad ciclonica atipica (incluyendo los vientos extraordinarios de rachas superiores a 120 km/h y los tornados); y caidas de cuerpos siderales y aerolitos. 
-b) Los ocasionados violentamente como consecuencia de terrorismo, rebelién, sedicion,motin y tumulto popular.
-c) Hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad en tiempo de paz.
+   a) Los siguientes fendmenos de la naturaleza: terremotos y maremotos; inundaciones extraordinarias, incluidas las producidas por embates de mar; erupciones volcanicas; tempestad ciclonica atipica (incluyendo los vientos extraordinarios de rachas superiores a 120 km/h y los tornados); y caidas de cuerpos siderales y aerolitos. 
+   b) Los ocasionados violentamente como consecuencia de terrorismo, rebelién, sedicion,motin y tumulto popular.
+   c) Hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad en tiempo de paz.
 
 Los fendmenos atmosféricos y sismicos, de erupciones volcdnicas y la caida de cuerpos siderales se certificaran, a instancia del Consorcio de Compensacién de Seguros, mediante informes expedidos por la Agencia Estatal de Meteorologia (AEMET), el Instituto Geografico Nacional y los demas organismos ptblicos competentes en la materia. En los casos de acontecimientos de cardacter politico o social, asi como en el supuesto de daños producidos por hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas o Cuerpos de Seguridad en tiempo de paz, el Consorcio de Compensacién de Seguros podra recabar de los organos jurisdiccionales y administrativos competentes informacion sobre los hechos acaecidos.
 
