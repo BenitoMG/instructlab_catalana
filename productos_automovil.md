@@ -14,7 +14,8 @@ Resumen de las principales coberturas del seguro y riesgos que pueden asegurarse
   - Reclamación de daños
   - Asesoría Jurídica telefónica
   - Localización, defensa y tramitación en infracciones administrativas de tráfico
-  - Servicio de alerta de multas de tráfico Recuperación de puntos
+  - Servicio de alerta de multas de tráfico
+  - Recuperación de puntos
   - Indemnización mensual por pérdida o suspensión temporal del carné
   - Orientación médico telefónica
 - La protección de su vehículo
@@ -22,8 +23,10 @@ Resumen de las principales coberturas del seguro y riesgos que pueden asegurarse
   - Incendio
   - Robo
   - Daños propios
-  - Daños por colisión con animales cinegéticos Daños por fenómenos atmosféricos
-  - Vehículo de sustitución Duplicado de llaves
+  - Daños por colisión con animales cinegéticos
+  - Daños por fenómenos atmosféricos
+  - Vehículo de sustitución
+  - Duplicado de llaves
 - La protección de las personas
   - Accidentes del Conductor Accidentes de los Ocupantes Gastos de Sepelio
   - Asistencia Sanitaria Asistencia Psicológica
@@ -78,47 +81,46 @@ Mediante notificación escrita dirigida a la entidad aseguradora y efectuada con
 
 Se indemnizara por el Consorcio de Compensacion de Seguros los siniestros de caracter extraordinario, de conformidad con la siguiente clausula:
 
-Clausula de indemnizacion por el consorcio de compensacién de seguros de las pérdidas derivadas de acontecimientos extraordinarios en seguros con coberturas combinadas de daños a personas y en bienes y de responsabilidad civil en vehiculos terrestres automoviles
+Clausula de indemnizacion por el consorcio de Compensación de seguros de las pérdidas derivadas de acontecimientos extraordinarios en seguros con coberturas combinadas de daños a personas y en bienes y de responsabilidad civil en vehiculos terrestres automoviles
 
 De conformidad con lo establecido en el texto refundido del Estatuto legal del Consorcio de Compensacion de Seguros, aprobado por el Real Decreto Legislativo 7/2004, de 29 de octubre, el tomador de un contrato de seguro de los que deben obligatoriamente incorporar recargo a favor de la citada entidad publica empresarial tiene la facultad de convenir la cobertura de los riesgos extraordinarios con cualquier entidad aseguradora que retina las condiciones exigidas por la legislacion vigente.
 
-Las indemnizaciones derivadas de siniestros producidos por acontecimientos extraordinarios acaecidos en Espafia, y que afecten a riesgos en ella situados y, en el caso de daños a las personas, también los acaecidos en el extranjero cuando el asegurado tenga su residencia habitual en Espafia, seraén pagadas por el Consorcio de Compensacién de Seguros cuando el tomador hubiese satisfecho los correspondientes recargos a su favor y se produjera alguna de las siguientes situaciones:
+Las indemnizaciones derivadas de siniestros producidos por acontecimientos extraordinarios acaecidos en Espafia, y que afecten a riesgos en ella situados y, en el caso de daños a las personas, también los acaecidos en el extranjero cuando el asegurado tenga su residencia habitual en Espafia, seraén pagadas por el Consorcio de Compensación de Seguros cuando el tomador hubiese satisfecho los correspondientes recargos a su favor y se produjera alguna de las siguientes situaciones:
 a) Que el riesgo extraordinario cubierto por el Consorcio de Compensacion de Seguros no esté amparado por la poliza de seguro contratada con la entidad aseguradora.
 b) Que, aun estando amparado por dicha poliza de seguro, las obligaciones de la entidad aseguradora no pudieran ser cumplidas por haber sido declarada judicialmente en concurso o por estar sujeta a un procedimiento de liquidacion intervenida o asumida por el Consorcio de Compensacion de Seguros.
 
-El Consorcio de Compensacién de Seguros ajustard su actuacién a lo dispuesto en el mencionado Estatuto legal, en la Ley 50/1980, de 8 de octubre, de Contrato de Seguro, en el Reglamento del seguro de riesgos extraordinarios, aprobado por el Real Decreto 300/2004, de 20 de febrero, y en las disposiciones complementarias.
+El Consorcio de Compensación de Seguros ajustará su actuación a lo dispuesto en el mencionado Estatuto legal, en la Ley 50/1980, de 8 de octubre, de Contrato de Seguro, en el Reglamento del seguro de riesgos extraordinarios, aprobado por el Real Decreto 300/2004, de 20 de febrero, y en las disposiciones complementarias.
 
 Resumen de las normas legales
 1. Acontecimientos extraordinarios cubiertos
-   - Los siguientes fendmenos de la naturaleza: terremotos y maremotos; inundaciones extraordinarias, incluidas las producidas por embates de mar; erupciones volcanicas; tempestad ciclonica atipica (incluyendo los vientos extraordinarios de rachas superiores a 120 km/h y los tornados); y caidas de cuerpos siderales y aerolitos. 
-   - Los ocasionados violentamente como consecuencia de terrorismo, rebelién, sedicion,motin y tumulto popular.
+   - Los siguientes fenómenos de la naturaleza: terremotos y maremotos; inundaciones extraordinarias, incluidas las producidas por embates de mar; erupciones volcanicas; tempestad ciclonica atipica (incluyendo los vientos extraordinarios de rachas superiores a 120 km/h y los tornados); y caidas de cuerpos siderales y aerolitos. 
+   - Los ocasionados violentamente como consecuencia de terrorismo, rebelión, sedicion, motin y tumulto popular.
    - Hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad en tiempo de paz.
 
-Los fendmenos atmosféricos y sismicos, de erupciones volcdnicas y la caida de cuerpos siderales se certificaran, a instancia del Consorcio de Compensacién de Seguros, mediante informes expedidos por la Agencia Estatal de Meteorologia (AEMET), el Instituto Geografico Nacional y los demas organismos ptblicos competentes en la materia. En los casos de acontecimientos de cardacter politico o social, asi como en el supuesto de daños producidos por hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas o Cuerpos de Seguridad en tiempo de paz, el Consorcio de Compensacién de Seguros podra recabar de los organos jurisdiccionales y administrativos competentes informacion sobre los hechos acaecidos.
+Los fenómenos atmosféricos y sismicos, de erupciones volcánicas y la caida de cuerpos siderales se certificaran, a instancia del Consorcio de Compensación de Seguros, mediante informes expedidos por la Agencia Estatal de Meteorologia (AEMET), el Instituto Geografico Nacional y los demas organismos ptblicos competentes en la materia. En los casos de acontecimientos de cardacter politico o social, asi como en el supuesto de daños producidos por hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas o Cuerpos de Seguridad en tiempo de paz, el Consorcio de Compensación de Seguros podra recabar de los organos jurisdiccionales y administrativos competentes informacion sobre los hechos acaecidos.
 
 2. Riesgos excluidos
-   - Los que no den lugar a indemnizacion segiin la Ley de Contrato de Seguro.
-   - Los ocasionados en bienes asegurados por contrato de seguro distinto a aquellos en que es obligatorio el recargo a favor del Consorcio de Compensacioén de Seguros.
+   - Los que no den lugar a indemnizacion según la Ley de Contrato de Seguro.
+   - Los ocasionados en bienes asegurados por contrato de seguro distinto a aquellos en que es obligatorio el recargo a favor del Consorcio de Compensación de Seguros.
    - Los debidos a vicio o defecto propio de la cosa asegurada, o a su manifiesta falta de mantenimiento.
-   - Los producidos por conflictos armados, aunque no haya precedido la declaraci6n oficial de guerra.
-   - Los derivados de la energia nuclear, sin perjuicio de lo establecido en la Ley 12/2011, de 27 de mayo, sobre responsabilidad civil por daños nucleares o producidos por materiales radiactivos. No obstante, lo anterior, si se entenderan incluidos todos los daños directos ocasionados en una instalacién nuclear asegurada, cuando sean consecuencia de un acontecimiento extraordinario que afecte a la propia instalacion.
-   - Los debidos a la mera accidn del tiempo, y en el caso de bienes total o parcialmente sumergidos de forma permanente, los imputables a la mera accion del oleaje o corrientes ordinarios.
-   - Los producidos por fenémenos de la naturaleza distintos a los sefialados en el apartado 1.a) anterior y, en particular, los producidos por elevacion del nivel freatico, movimiento de laderas, deslizamiento o asentamiento de terrenos, desprendimiento de rocas y fenémenos similares, salvo que éstos fueran ocasionados manifiestamente por la accion del agua de lluvia que, a su vez, hubiera provocado en la zona una situacién de inundacion extraordinaria y se produjeran con caracter simultaneo a dicha inundacion.
+   - Los producidos por conflictos armados, aunque no haya precedido la declaración oficial de guerra.
+   - Los derivados de la energia nuclear, sin perjuicio de lo establecido en la Ley 12/2011, de 27 de mayo, sobre responsabilidad civil por daños nucleares o producidos por materiales radiactivos. No obstante, lo anterior, si se entenderan incluidos todos los daños directos ocasionados en una instalación nuclear asegurada, cuando sean consecuencia de un acontecimiento extraordinario que afecte a la propia instalacion.
+   - Los debidos a la mera acción del tiempo, y en el caso de bienes total o parcialmente sumergidos de forma permanente, los imputables a la mera accion del oleaje o corrientes ordinarios.
+   - Los producidos por fenómenos de la naturaleza distintos a los sefialados en el apartado 1.a) anterior y, en particular, los producidos por elevacion del nivel freatico, movimiento de laderas, deslizamiento o asentamiento de terrenos, desprendimiento de rocas y fenómenos similares, salvo que éstos fueran ocasionados manifiestamente por la accion del agua de lluvia que, a su vez, hubiera provocado en la zona una situación de inundacion extraordinaria y se produjeran con caracter simultaneo a dicha inundacion.
    - Los causados por actuaciones tumultuarias producidas en el curso de reuniones y manifestaciones llevadas a cabo conforme a lo dispuesto en la Ley Organica 9/1983, de 15 dejulio, reguladora del derecho de reunion, asi como durante el transcurso de huelgas legales, salvo que las citadas actuaciones pudieran ser calificadas como acontecimientos extraordinarios de los sefialados en el apartado 1.b) anterior.
    - Los causados por mala fe del asegurado.
-   - Los derivados de siniestros por fenémenos naturales que causen daños a los bienes o pérdidas pecuniarias cuando la fecha de emisién de la póliza o de efecto, si fuera posterior, no preceda en siete dias naturales a aquél en que ha ocurrido el siniestro, salvo que quede demostrada la imposibilidad de contratacién anterior del seguro por inexistencia de interés asegurable. Este periodo de carencia no se aplicara en el caso de reemplazo o sustitucién de la podliza, en la misma u otra entidad, sin solucién de continuidad, salvo en la parte que fuera objeto de aumento o nueva cobertura. Tampoco se aplicard para la parte de los capitales asegurados que resulte de la revalorización automatica prevista en la póliza.
-   - Los correspondientes a siniestros producidos antes del pago de la primera prima o cuando, de conformidad con lo establecido en la Ley de Contrato de Seguro, la cobertura del Consorcio de Compensacién de Seguros se halle suspendida o el seguro quede extinguido por falta de pago de las primas.
-   - En el caso de los daiios a los bienes, los indirectos o pérdidas derivadas de daños directos o indirectos, distintos de las pérdidas pecuniarias delimitadas como indemnizables en el Reglamento del seguro de riesgos extraordinarios. En particular, no quedan comprendidos en esta cobertura los daños o pérdidas sufridas como consecuencia de corte o alteracién en el suministro exterior de energia eléctrica, gases combustibles, fuel-oil, gasoil, u otros fluidos, ni cualesquiera otros daños o pérdidas indirectas distintas de las citadas en el parrafo anterior, aunque estas alteraciones se deriven de una causa incluida en la cobertura de riesgos extraordinarios.
+   - Los derivados de siniestros por fenómenos naturales que causen daños a los bienes o pérdidas pecuniarias cuando la fecha de emisién de la póliza o de efecto, si fuera posterior, no preceda en siete dias naturales a aquél en que ha ocurrido el siniestro, salvo que quede demostrada la imposibilidad de contratación anterior del seguro por inexistencia de interés asegurable. Este periodo de carencia no se aplicara en el caso de reemplazo o sustitución de la podliza, en la misma u otra entidad, sin solución de continuidad, salvo en la parte que fuera objeto de aumento o nueva cobertura. Tampoco se aplicará para la parte de los capitales asegurados que resulte de la revalorización automatica prevista en la póliza.
+   - Los correspondientes a siniestros producidos antes del pago de la primera prima o cuando, de conformidad con lo establecido en la Ley de Contrato de Seguro, la cobertura del Consorcio de Compensación de Seguros se halle suspendida o el seguro quede extinguido por falta de pago de las primas.
+   - En el caso de los daños a los bienes, los indirectos o pérdidas derivadas de daños directos o indirectos, distintos de las pérdidas pecuniarias delimitadas como indemnizables en el Reglamento del seguro de riesgos extraordinarios. En particular, no quedan comprendidos en esta cobertura los daños o pérdidas sufridas como consecuencia de corte o alteración en el suministro exterior de energia eléctrica, gases combustibles, fuel-oil, gasoil, u otros fluidos, ni cualesquiera otros daños o pérdidas indirectas distintas de las citadas en el parrafo anterior, aunque estas alteraciones se deriven de una causa incluida en la cobertura de riesgos extraordinarios.
    - Los siniestros que por su magnitud y gravedad sean calificados por el Gobierno de la Nacion como de «catastrofe o calamidad nacional».
-   - En el caso de la responsabilidad civil en vehiculos terrestres automéviles, los daños personales derivados de esta cobertura.
+   - En el caso de la responsabilidad civil en vehiculos terrestres automóviles, los daños personales derivados de esta cobertura.
 
 3. Franquicia
 
 I. La franquicia a cargo del asegurado sera:
-   - Enel caso de daños directos, en los seguros contra daños en las cosas la franquicia a cargo del asegurado sera de un siete por ciento de la cuantia de los daños indemnizables producidos por el siniestro. No obstante, no se efectuara deduccion alguna por franquicia a los daños que afecten a viviendas, a comunidades de propietarios de viviendas, ni a vehiculos que estén asegurados por poliza de seguro de automoviles.
+   - En el caso de daños directos, en los seguros contra daños en las cosas la franquicia a cargo del asegurado sera de un siete por ciento de la cuantia de los daños indemnizables producidos por el siniestro. No obstante, no se efectuara deduccion alguna por franquicia a los daños que afecten a viviendas, a comunidades de propietarios de viviendas, ni a vehiculos que estén asegurados por poliza de seguro de automoviles.
    - En el caso de pérdidas pecuniarias diversas, la franquicia a cargo del asegurado sera la misma prevista en la poliza, en tiempo o en cuantia, para daños que sean consecuencia de siniestros ordinarios de pérdida de beneficios. De existir diversas franquicias para la cobertura de siniestros ordinarios de pérdida de beneficios, se aplicaran las previstas para la cobertura principal.
-   - Cuando en una póliza se establezca una franquicia combinada para daños y pérdida de beneficios, por el Consorcio de Compensacién de Seguros se liquidardn los daños
-materiales con deduccion de la franquicia que corresponda por aplicacion de lo previsto en el apartado a) anterior, y la pérdida de beneficios producida con deduccidn de la franquicia establecida en la poliza para la cobertura principal, minorada en la franquicia aplicada en la liquidacion de los daños materiales.
+   - Cuando en una póliza se establezca una franquicia combinada para daños y pérdida de beneficios, por el Consorcio de Compensación de Seguros se liquidarán los daños materiales con deduccion de la franquicia que corresponda por aplicacion de lo previsto en el apartado a) anterior, y la pérdida de beneficios producida con deducción de la franquicia establecida en la poliza para la cobertura principal, minorada en la franquicia aplicada en la liquidacion de los daños materiales.
 
 II. En los seguros de personas no se efectuara deduccion por franquicia.
 
@@ -126,18 +128,18 @@ II. En los seguros de personas no se efectuara deduccion por franquicia.
 1. La cobertura de los riesgos extraordinarios alcanzara a los mismos bienes o personas, asi como las mismas sumas aseguradas que se hayan establecido en las polizas de seguro a efectos de la cobertura de los riesgos ordinarios.
 
 2. No obstante lo anterior:
-   - En las polizas que cubran daños propios a los vehiculos a motor la cobertura de riesgos extraordinarios por el Consorcio de Compensacién de Seguros garantizara la totalidad del interés asegurable, aunque la poliza ordinaria sélo lo haga parcialmente.
+   - En las polizas que cubran daños propios a los vehiculos a motor la cobertura de riesgos extraordinarios por el Consorcio de Compensación de Seguros garantizara la totalidad del interés asegurable, aunque la poliza ordinaria sélo lo haga parcialmente.
    - Cuando los vehiculos inicamente cuenten con una pdoliza de responsabilidad civil en vehiculos terrestres automoviles, la cobertura de riesgos extraordinarios por el Consorcio de Compensacion de Seguros garantizara el valor del vehiculo en el estado en que se encuentre en el momento inmediatamente anterior a la ocurrencia del siniestro según precios de compra de general aceptacion en el mercado.
    - En las polizas de seguro de vida que, de acuerdo con lo previsto en el contrato, y de conformidad con la normativa reguladora de los seguros privados, generen provision matemática, la cobertura del Consorcio de Compensacion de Seguros se referira al capital en riesgo para cada asegurado, es decir, a la diferencia entre la suma asegurada y la provisión matematica que la entidad aseguradora que la hubiera emitido deba tener constituida. El importe correspondiente a la provisión matematica sera satisfecho por la mencionada entidad aseguradora.
 
 Comunicación de daños al Consorcio de Compensacion de Seguros
 
-1. La solicitud de indemnizacién de daños cuya cobertura corresponda al Consorcio de Compensacion de Seguros, se efectuard mediante comunicaci6n al mismo por el tomador del seguro, el asegurado o el beneficiario de la poliza, o por quien actte por cuenta y nombre de los anteriores, o por la entidad aseguradora o el mediador de seguros con cuya intervencion se gestionara el seguro.
+1. La solicitud de indemnización de daños cuya cobertura corresponda al Consorcio de Compensacion de Seguros, se efectuará mediante comunicación al mismo por el tomador del seguro, el asegurado o el beneficiario de la poliza, o por quien actúe por cuenta y nombre de los anteriores, o por la entidad aseguradora o el mediador de seguros con cuya intervencion se gestionara el seguro.
 
-2. La comunicación de los daños y la obtencidn de cualquier informacion relativa al procedimiento y al estado de tramitacidn de los siniestros podra realizarse:
-   — Mediante llamada al Centro de Atencién Telefonica del Consorcio de Compensacidn de Seguros (900 222 665 o 952 367 042).
-   - A través de la pagina web del Consorcio de Compensacién de Seguros (www.consorseguros.es).
+2. La comunicación de los daños y la obtención de cualquier informacion relativa al procedimiento y al estado de tramitación de los siniestros podra realizarse:
+   — Mediante llamada al Centro de Atención Telefonica del Consorcio de Compensación de Seguros (900 222 665 o 952 367 042).
+   - A través de la pagina web del Consorcio de Compensación de Seguros (www.consorseguros.es).
 
-3. Valoracién de los daños: La valoracion de los daños que resulten indemnizables con arreglo a la legislacion de seguros y al contenido de la poliza de seguro se realizara por el Consorcio de Compensacion de Seguros, sin que éste quede vinculado por las valoraciones que, en su caso, hubiese realizado la entidad aseguradora que cubriese los riesgos ordinarios.
+3. Valoración de los daños: La valoracion de los daños que resulten indemnizables con arreglo a la legislacion de seguros y al contenido de la poliza de seguro se realizara por el Consorcio de Compensacion de Seguros, sin que éste quede vinculado por las valoraciones que, en su caso, hubiese realizado la entidad aseguradora que cubriese los riesgos ordinarios.
 
 4. Abono de la indemnizacion: El Consorcio de Compensacion de Seguros realizara el pago de la indemnizacion al beneficiario del seguro mediante transferencia bancaria
